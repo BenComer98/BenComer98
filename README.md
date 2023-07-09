@@ -2,8 +2,8 @@ Hey, I'm Ben Comer, a Software Developer. This is my repository for code project
 
 Right now I'm working on:
 -
-* Discord bot for customized Dungeons and Dragons campaign and playstyle.\
-* Code projects from learning languages, concepts (using Udemy).\
+* Discord bot for customized Dungeons and Dragons campaign and playstyle.
+* Code projects from learning languages, concepts (using Udemy).
 
 Currently Learning:
 -
