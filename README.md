@@ -4,6 +4,7 @@ Right now I'm working on:
 -
 * Discord bot for customized Dungeons and Dragons campaign and playstyle.
 * Code projects from learning languages, concepts (using Udemy).
+* Averages app for Fire Emblem (feel free to email for description).
 
 Currently Learning:
 -
