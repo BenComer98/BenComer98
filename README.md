@@ -8,7 +8,7 @@ Right now I'm working on:
 
 Currently Learning:
 -
-  * Javascript : On this at the moment
-  * React
+  * Javascript : On this at the moment...
+  * React : ...working in JS and TS alongside this
   * Node.js
-  * Typescript
+  * Typescript : Also on this at the same time...
