@@ -2,13 +2,11 @@ Hey, I'm Ben Comer, a Software Developer. This is my repository for code project
 
 Right now I'm working on:
 -
-* Discord bot for customized Dungeons and Dragons campaign and playstyle.
-* Code projects from learning languages, concepts (using Udemy).
-* Averages app for Fire Emblem (feel free to email for description).
+* Wordle AI - Migration to AWS; Lambdas, Dynamo
+* LangChain learning
 
 Currently Learning:
 -
-  * Javascript : On this at the moment...
-  * React : ...working in JS and TS alongside this
-  * Node.js
-  * Typescript : Also on this at the same time...
+  * LangChain
+  * CSS Mastery
+  * AWS
