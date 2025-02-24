@@ -2,11 +2,10 @@ Hey, I'm Ben Comer, a Software Developer. This is my repository for code project
 
 Right now I'm working on:
 -
-* Wordle AI - Migration to AWS; Lambdas, Dynamo
-* LangChain learning
+* SPARx Capstone Project
 
 Currently Learning:
 -
   * LangChain
-  * CSS Mastery
   * AWS
+  * Data Pipelining
